@@ -4,6 +4,7 @@
   >
     <router-view />
   </div>
+  <notifications />
 </template>
 
 <script setup></script>
